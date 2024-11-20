@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\api",
+    "\\src\\app\\api\\booking",
+    "\\src\\backend",
+    "\\src\\backend\\models",
+    "\\src\\uitils"
+  ],
+  "SelectedNode": "\\src\\backend\\models\\hotel.js",
+  "PreviewInSolutionExplorer": false
+}

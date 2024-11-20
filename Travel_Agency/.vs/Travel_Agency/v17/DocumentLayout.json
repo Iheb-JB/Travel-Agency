@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Firas affes\\Documents\\GitHub\\Travel-Agency\\Travel_Agency\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Firas affes\\Documents\\GitHub\\Travel-Agency\\Travel_Agency\\src\\backend\\models\\TravelComponent.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\backend\\models\\TravelComponent.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Firas affes\\Documents\\GitHub\\Travel-Agency\\Travel_Agency\\src\\backend\\models\\flight.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\backend\\models\\flight.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Firas affes\\Documents\\GitHub\\Travel-Agency\\Travel_Agency\\src\\backend\\models\\hotel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\backend\\models\\hotel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Firas affes\\Documents\\GitHub\\Travel-Agency\\Travel_Agency\\src\\backend\\models\\PasswordResetToken.js||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\backend\\models\\PasswordResetToken.js||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Firas affes\\Documents\\GitHub\\Travel-Agency\\Travel_Agency\\src\\backend\\models\\SearchService.js||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\backend\\models\\SearchService.js||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Firas affes\\Documents\\GitHub\\Travel-Agency\\Travel_Agency\\src\\backend\\models\\Booking.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\backend\\models\\Booking.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Firas affes\\Documents\\GitHub\\Travel-Agency\\Travel_Agency\\src\\backend\\models\\TravelPackage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\backend\\models\\TravelPackage.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Firas affes\\Documents\\GitHub\\Travel-Agency\\Travel_Agency\\src\\backend\\models\\CarRental.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\backend\\models\\CarRental.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Firas affes\\Documents\\GitHub\\Travel-Agency\\Travel_Agency\\src\\app\\api\\booking\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\api\\booking\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Firas affes\\Documents\\GitHub\\Travel-Agency\\Travel_Agency\\src\\uitils\\dbConnect.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\uitils\\dbConnect.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TravelComponent.js",
+              "DocumentMoniker": "C:\\Users\\Firas affes\\Documents\\GitHub\\Travel-Agency\\Travel_Agency\\src\\backend\\models\\TravelComponent.js",
+              "RelativeDocumentMoniker": "src\\backend\\models\\TravelComponent.js",
+              "ToolTip": "C:\\Users\\Firas affes\\Documents\\GitHub\\Travel-Agency\\Travel_Agency\\src\\backend\\models\\TravelComponent.js",
+              "RelativeToolTip": "src\\backend\\models\\TravelComponent.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-20T00:13:55.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Flight.js",
+              "DocumentMoniker": "C:\\Users\\Firas affes\\Documents\\GitHub\\Travel-Agency\\Travel_Agency\\src\\backend\\models\\Flight.js",
+              "RelativeDocumentMoniker": "src\\backend\\models\\Flight.js",
+              "ToolTip": "C:\\Users\\Firas affes\\Documents\\GitHub\\Travel-Agency\\Travel_Agency\\src\\backend\\models\\Flight.js",
+              "RelativeToolTip": "src\\backend\\models\\Flight.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-20T00:07:58.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hotel.js",
+              "DocumentMoniker": "C:\\Users\\Firas affes\\Documents\\GitHub\\Travel-Agency\\Travel_Agency\\src\\backend\\models\\Hotel.js",
+              "RelativeDocumentMoniker": "src\\backend\\models\\Hotel.js",
+              "ToolTip": "C:\\Users\\Firas affes\\Documents\\GitHub\\Travel-Agency\\Travel_Agency\\src\\backend\\models\\Hotel.js",
+              "RelativeToolTip": "src\\backend\\models\\Hotel.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-20T00:07:40.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Booking.js",
+              "DocumentMoniker": "C:\\Users\\Firas affes\\Documents\\GitHub\\Travel-Agency\\Travel_Agency\\src\\backend\\models\\Booking.js",
+              "RelativeDocumentMoniker": "src\\backend\\models\\Booking.js",
+              "ToolTip": "C:\\Users\\Firas affes\\Documents\\GitHub\\Travel-Agency\\Travel_Agency\\src\\backend\\models\\Booking.js",
+              "RelativeToolTip": "src\\backend\\models\\Booking.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-19T23:47:38.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchService.js",
+              "DocumentMoniker": "C:\\Users\\Firas affes\\Documents\\GitHub\\Travel-Agency\\Travel_Agency\\src\\backend\\models\\SearchService.js",
+              "RelativeDocumentMoniker": "src\\backend\\models\\SearchService.js",
+              "ToolTip": "C:\\Users\\Firas affes\\Documents\\GitHub\\Travel-Agency\\Travel_Agency\\src\\backend\\models\\SearchService.js",
+              "RelativeToolTip": "src\\backend\\models\\SearchService.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-19T23:20:45.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PasswordResetToken.js",
+              "DocumentMoniker": "C:\\Users\\Firas affes\\Documents\\GitHub\\Travel-Agency\\Travel_Agency\\src\\backend\\models\\PasswordResetToken.js",
+              "RelativeDocumentMoniker": "src\\backend\\models\\PasswordResetToken.js",
+              "ToolTip": "C:\\Users\\Firas affes\\Documents\\GitHub\\Travel-Agency\\Travel_Agency\\src\\backend\\models\\PasswordResetToken.js",
+              "RelativeToolTip": "src\\backend\\models\\PasswordResetToken.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-20T00:04:51.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TravelPackage.js",
+              "DocumentMoniker": "C:\\Users\\Firas affes\\Documents\\GitHub\\Travel-Agency\\Travel_Agency\\src\\backend\\models\\TravelPackage.js",
+              "RelativeDocumentMoniker": "src\\backend\\models\\TravelPackage.js",
+              "ToolTip": "C:\\Users\\Firas affes\\Documents\\GitHub\\Travel-Agency\\Travel_Agency\\src\\backend\\models\\TravelPackage.js",
+              "RelativeToolTip": "src\\backend\\models\\TravelPackage.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-20T00:08:50.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CarRental.js",
+              "DocumentMoniker": "C:\\Users\\Firas affes\\Documents\\GitHub\\Travel-Agency\\Travel_Agency\\src\\backend\\models\\CarRental.js",
+              "RelativeDocumentMoniker": "src\\backend\\models\\CarRental.js",
+              "ToolTip": "C:\\Users\\Firas affes\\Documents\\GitHub\\Travel-Agency\\Travel_Agency\\src\\backend\\models\\CarRental.js",
+              "RelativeToolTip": "src\\backend\\models\\CarRental.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-20T00:13:16.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\Firas affes\\Documents\\GitHub\\Travel-Agency\\Travel_Agency\\src\\app\\api\\booking\\index.js",
+              "RelativeDocumentMoniker": "src\\app\\api\\booking\\index.js",
+              "ToolTip": "C:\\Users\\Firas affes\\Documents\\GitHub\\Travel-Agency\\Travel_Agency\\src\\app\\api\\booking\\index.js",
+              "RelativeToolTip": "src\\app\\api\\booking\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-20T00:07:18.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbConnect.js",
+              "DocumentMoniker": "C:\\Users\\Firas affes\\Documents\\GitHub\\Travel-Agency\\Travel_Agency\\src\\uitils\\dbConnect.js",
+              "RelativeDocumentMoniker": "src\\uitils\\dbConnect.js",
+              "ToolTip": "C:\\Users\\Firas affes\\Documents\\GitHub\\Travel-Agency\\Travel_Agency\\src\\uitils\\dbConnect.js",
+              "RelativeToolTip": "src\\uitils\\dbConnect.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-19T23:39:35.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
